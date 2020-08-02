@@ -1,0 +1,12 @@
+{
+  "name": "KH",
+  "displayName": "KH",
+  "expo": {
+    "name": "KH",
+    "slug": "KH",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
